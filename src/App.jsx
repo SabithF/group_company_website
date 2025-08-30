@@ -4,8 +4,8 @@ import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Vision from './components/Vision';
-
 import './App.css'
+import Chairman from './components/Chairman';
 
 const App = () => {
 
@@ -23,6 +23,7 @@ const App = () => {
         <Hero/>
         <About/>
         <Vision/>
+        <Chairman/>
         </>
       }/>
       

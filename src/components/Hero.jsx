@@ -63,7 +63,7 @@ const Hero = () => {
           {/* Card 1 */}
           <motion.div
             variants={card}
-            className="h-60 md:h-96 w-full max-w-96 md:w-80 rounded-3xl overflow-hidden shadow"
+            className="h-60 md:h-96  w-full max-w-96 md:w-80 rounded-3xl overflow-hidden shadow"
           >
             <div
               className="h-full w-full bg-cover bg-center"
