@@ -117,10 +117,7 @@ const Vision = () => {
 
                 {/* Our Mission Heading */}
                 <motion.div
-                    variants={seq}
-                    initial="hidden"
-                    whileInView="show"
-                    viewport={{ once: true, amount: 0.35 }}
+                    
                     className="relative flex justify-center items-center w-full"
                 >
                     <motion.h1
@@ -212,7 +209,8 @@ const Vision = () => {
 
                     <motion.p
                         variants={textIn}
-                        className="font-monteCarlo text-cusiveFont text-center justify-center items-center
+                        className="font-monteCarlo text-cusiveFont text-center 
+                        justify-center items-center
                   text-[20px] md:text-[30px] py-3 md:py-6 px-5 md:px-48"
                     >
                         The legacy of Meezan began in 1925, founded by our cherished father, Mr. S.M. Mohideen, fondly remembered as Meezan Hajiar. A visionary entrepreneur, he entered the tea trade in 1946 with the purchase of the historic Ancoombra Tea Factory, expanding over time into multiple plantations across Sri Lanka.
