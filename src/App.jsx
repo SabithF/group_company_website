@@ -6,6 +6,12 @@ import About from './components/About';
 import Vision from './components/Vision';
 import './App.css'
 import Chairman from './components/Chairman';
+import {Legacy} from './components/Legacy';
+import { TimelineD } from './components/helperComponents/Timeline';
+import Testimonial from './components/Testimonial';
+import Integrity from './components/Integrity';
+import Contact from './Contact';
+import Footer from './Footer';
 
 const App = () => {
 
@@ -24,6 +30,12 @@ const App = () => {
         <About/>
         <Vision/>
         <Chairman/>
+        <TimelineD/>
+        <Testimonial/>
+        <Integrity/>
+        <Contact />
+        <Footer/>
+
         </>
       }/>
       

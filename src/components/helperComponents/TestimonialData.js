@@ -1,0 +1,42 @@
+export const testimonials = [
+    {
+        id: "t-1",
+        name: "Harry",
+        position: "Director",
+        message: "I have done business with Meezan companies and I recommend them to everyone.",
+        avatarUrl: "/assets/img/profile.jpg",
+        rating:5,
+    },
+    {
+        id: "t-2",
+        name: "Potter",
+        position: "Director",
+        message: "I have done business with Meezan companies and I recommend them to everyone.",
+        avatarUrl: "/assets/img/profile.jpg",
+        rating:2,
+    },
+    {
+        id: "t-3",
+        name: "Zahran",
+        position: "Director",
+        message: "I have done business with Meezan companies and I recommend them to everyone.",
+        avatarUrl: "/assets/img/profile.jpg",
+        rating:5,
+    },
+    {
+        id: "t-4",
+        name: "Sabith",
+        position: "Director",
+        message: "I have done business with Meezan companies and I recommend them to everyone.",
+        avatarUrl: "/assets/img/profile.jpg",
+        rating:5,
+    },
+    {
+        id: "t-5",
+        name: "Harry",
+        position: "Director",
+        message: "I have done business with Meezan companies and I recommend them to everyone.",
+        avatarUrl: "/assets/img/profile.jpg",
+        rating:5,
+    },
+]

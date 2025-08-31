@@ -12,3 +12,13 @@
 @tailwind utilities;
 
 
+
+.react-multi-carousel-item {
+  overflow: visible !important;
+}
+
+.react-multi-carousel-list,
+.react-multi-carousel-track,
+.react-multi-carousel-item {
+  overflow: visible !important;
+}
