@@ -120,7 +120,7 @@ const NavBar = () => {
 
                 {/* Dropdown */}
                 {isPresenceHoverOpen && (
-                  <div className="absolute top-full mt-2 bg-white text-black shadow-lg p-4 z-50 w-64 rounded-lg">
+                  <div className="absolute top-full  bg-white text-black shadow-lg p-4 z-50 w-64 rounded-lg">
                     <ul className="space-y-1 text-sm uppercase">
                       {presenceItems.map((item) => (
                         <li key={item.to}>
