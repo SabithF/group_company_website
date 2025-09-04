@@ -194,7 +194,7 @@ const NavBar = () => {
           isNavOpen ? "max-h-[80vh] opacity-100" : "max-h-0 opacity-0"
         }`}
       >
-        <nav className="px-6 py-4 space-y-3 text-slate-900 uppercase">
+        <nav className="px-6 py-4  font-montserrat space-y-3 text-slate-900 uppercase">
           <Link
             to="/"
             className="block text-lg"
